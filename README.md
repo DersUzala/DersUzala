@@ -1,5 +1,5 @@
 ## Alexander Zolotarev - Biomedical Data Scientist
-I am a PhD student in Data Science at [Skoltech](https://www.skoltech.ru/). The topic of my research are *computer vision*, *image-to-image translation*, *atrial fibrillation*, *biomedical data*.
+I am a PhD student in Data Science at [Skoltech](https://www.skoltech.ru/). The topics of my research are *computer vision*, *image-to-image translation*, *atrial fibrillation*, *biomedical data*.
 
 Publications: 
 - [Optical mapping-validated machine learning improves atrial fibrillation driver detection by multi-electrode mapping](https://doi.org/10.1161/CIRCEP.119.008249). :computer:[Project code](https://github.com/DersUzala/FFT)
