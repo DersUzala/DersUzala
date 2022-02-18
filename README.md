@@ -1,16 +1,23 @@
-### Hi there 👋
+## Alexander Zolotarev - Biomedical Data Scientist
+I am a PhD student in Data Science at [Skoltech](https://www.skoltech.ru/). The topic of my research are *computer vision*, *image-to-image translation*, *atrial fibrillation*, *biomedical data*.
 
-<!--
-**DersUzala/DersUzala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Publications: 
+- [Optical mapping-validated machine learning improves atrial fibrillation driver detection by multi-electrode mapping](https://doi.org/10.1161/CIRCEP.119.008249). :computer:[Project code](https://github.com/DersUzala/FFT)
+- [Machine Learning Trained With Optical Mapping Enhances Detection Of Atrial Fibrillation Drivers For Clinical Multi-electrode Mapping](https://www.heartrhythmjournal.com/article/S1547-5271(19)30329-7/pdf)
+- [In-vivo - to - ex-vivo learning](https://2021.midl.io/papers/f1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :mortar_board: Education
+-  MSc in Applied Physics and Mathematics at [Moscow Institute of Science and Technology](https://www.mipt.ru/en/) with honors
+-  MD in General Medicine at [Sechenov University](https://www.sechenov.ru/eng/) with honors
+
+
+### Skills
+
+<img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> 
+<img align="left" alt="Numpy" title="Numpy" width="26px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />
+<img align="left" alt="Pandas" title="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
+<img align="left" alt="Sklearn" title="Sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="XGBoost" title="XGBoost" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" /> 
+<img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
+
