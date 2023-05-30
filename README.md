@@ -1,5 +1,5 @@
 ## Alexander Zolotarev - Biomedical Data Scientist
-I am a PhD student in Data Science at [Skoltech](https://www.skoltech.ru/). The topics of my research are *computer vision*, *image-to-image translation*, *atrial fibrillation*, *biomedical data*.
+I am a PostDoctoral Research Associate at [Queen Mary University of London](https://www.sems.qmul.ac.uk/staff/a.zolotarev). The topics of my research are *computer vision*, *image-to-image translation*, *atrial fibrillation*, *biomedical data*, *digital twins*.
 
 Publications: 
 - [Optical mapping-validated machine learning improves atrial fibrillation driver detection by multi-electrode mapping](https://doi.org/10.1161/CIRCEP.119.008249). :computer:[Project code](https://github.com/DersUzala/FFT)
@@ -10,7 +10,7 @@ Publications:
 ### :mortar_board: Education
 -  MSc in Applied Physics and Mathematics at [Moscow Institute of Science and Technology](https://www.mipt.ru/en/) with honors
 -  MD in General Medicine at [Sechenov University](https://www.sechenov.ru/eng/) with honors
-
+-  PhD in Data Science at [Skoltech](https://www.skoltech.ru/)
 
 ### Skills
 
