@@ -19,5 +19,5 @@ Publications:
 <img align="left" alt="Pandas" title="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
 <img align="left" alt="Sklearn" title="Sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="left" alt="XGBoost" title="XGBoost" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" /> 
-<img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://de.m.wikipedia.org/wiki/Datei:Pytorch_logo.png" />
+<img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
 
