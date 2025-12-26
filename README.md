@@ -5,7 +5,7 @@ Selected publications:
 - [Synthetic Fibrosis Distributions for Data Augmentation in Predicting Atrial Fibrillation Ablation Outcomes: an In-silico Study](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1512356/full) :computer:[Project code](https://github.com/pcmlab/AF_ablation_DT)
 - [Predicting Atrial Fibrillation Treatment Outcome with Siamese Multi-modal Fusion and Digital Twins](https://openreview.net/forum?id=hV2WtoJKGp) :computer:[Project code](https://github.com/pcmlab/AF_ablation_DT/tree/midl)
 - [Constructing bilayer and volumetric atrial models at scale](https://royalsocietypublishing.org/rsfs/article/13/6/20230038/89401/Constructing-bilayer-and-volumetric-atrial-models) :computer:[Project code](https://github.com/pcmlab/atrialmtk)
-- [In-vivo - to - ex-vivo learning](https://2021.midl.io/papers/f1)
+- [In-vivo - to - ex-vivo learning in Cardiology](https://2021.midl.io/papers/f1)
 - [Optical mapping-validated machine learning improves atrial fibrillation driver detection by multi-electrode mapping](https://doi.org/10.1161/CIRCEP.119.008249). :computer:[Project code](https://github.com/DersUzala/FFT)
 
 
